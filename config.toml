@@ -19,10 +19,10 @@ highlight_code = false
 navbar_items = [
  { code = "en", nav_items = [
   { url = "https://cleo.nyc/", name = "Home" },
-  { url = "https://cleo.nyc/nextcloud", name = "Nextcloud" },
-  { url = "https://cleo.nyc/gitlab", name = "Gitlab" },
-  { url = "https://cleo.nyc/bitwarden", name = "Bitwarden" },
-  { url = "https://cleo.nyc/mailcow", name = "Mailcow" },
+  { url = "https://cleo.nyc/nextcloud/", name = "Nextcloud" },
+  { url = "https://cleo.nyc/gitlab/", name = "Gitlab" },
+  { url = "https://cleo.nyc/bitwarden/", name = "Bitwarden" },
+  { url = "https://cleo.nyc/mailcow/", name = "Mailcow" },
  ]},
 ]
 [extra.favicon]
