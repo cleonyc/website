@@ -18,11 +18,11 @@ highlight_code = false
 # Put all your custom variables here
 navbar_items = [
  { code = "en", nav_items = [
-  { url = "$BASE_URL/", name = "Home" },
-  { url = "$BASE_URL/nextcloud", name = "Nextcloud" },
-  { url = "$BASE_URL/gitlab", name = "Gitlab" },
-  { url = "$BASE_URL/bitwarden", name = "Bitwarden" },
-  { url = "$BASE_URL/mailcow", name = "Mailcow" },
+  { url = "https://cleo.nyc/", name = "Home" },
+  { url = "https://cleo.nyc/nextcloud", name = "Nextcloud" },
+  { url = "https://cleo.nyc/gitlab", name = "Gitlab" },
+  { url = "https://cleo.nyc/bitwarden", name = "Bitwarden" },
+  { url = "https://cleo.nyc/mailcow", name = "Mailcow" },
  ]},
 ]
 [extra.favicon]
